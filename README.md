@@ -7,7 +7,7 @@ The `forwardForward.ipynb` notebook contains the implementation of the ForwardFo
 - [ForwardForward Implementation](forwardForward.ipynb)
 - [ForwardForward with Residual Adjustments](forwardForward_adjustments.ipynb)
 - [Multi-Layer Perceptron (MLP) Comparison](mlp.ipynb)
-- [Testing and Evaluation](tests.ipynb)
+- [Playground](tests.ipynb)
 
 ## Implementation Details
 
