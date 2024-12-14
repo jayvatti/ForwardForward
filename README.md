@@ -82,10 +82,6 @@ By incorporating residual connections, the ForwardForward model not only improve
 - **Biological Plausibility:** These connections mimic the brain's neural pathways, making the ForwardForward model more aligned with natural learning processes.
 - **Improved Generalization:** Preserving essential features leads to better performance on unseen data, enhancing the model's ability to generalize.
 
-In summary, the integration of residual connections into the ForwardForward model represents a significant step towards creating more efficient, robust, and biologically inspired artificial intelligence systems.
-
-
-
 ## Future Improvements
 
 For future enhancements, I plan to experiment with integrating additional biologically inspired mechanisms to further align the ForwardForward model with human brain functionalities. Some of the features I aim to explore include:
